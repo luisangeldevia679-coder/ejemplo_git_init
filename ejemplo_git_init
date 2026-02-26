@@ -1,5 +1,5 @@
 print ("Hola Mundo")
-print ("Hola Mundo")
+
 print ("Colombia es la mejor del mundo") 
 hola = "Hola Mundo"
 print (hola)
