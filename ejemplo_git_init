@@ -3,3 +3,9 @@ print ("Hola Mundo")
 
 dato = 2+2
 print ("El resultado es:", dato)
+<<<<<<< HEAD
+=======
+
+dato2 = 2-2
+print ("El resultado es:", dato2)
+>>>>>>> resta
