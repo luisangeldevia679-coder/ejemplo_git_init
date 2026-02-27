@@ -4,8 +4,18 @@ print ("Hola Mundo")
 dato = 2+2
 print ("El resultado es:", dato)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 dato2 = 2-2
 print ("El resultado es:", dato2)
 >>>>>>> resta
+=======
+
+dato2 = 2-2
+print ("El resultado es:", dato2)
+
+dato3 = 2*2
+print ("El resultado es:", dato3)
+
+>>>>>>> multiplicacion
