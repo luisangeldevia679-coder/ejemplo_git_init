@@ -1,2 +1,8 @@
 print ("Hola Mundo")
 print ("Hola Mundo")
+
+dato = 2+2
+print ("El resultado es:", dato)
+
+dato2 = 2-2
+print ("El resultado es:", dato2)
